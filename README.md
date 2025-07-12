@@ -48,8 +48,8 @@ I'm also familiar with using **GitHub** to manage and share my code.
 
 | Project | Description |
 |--------|-------------|
-| [Simon Game](https://github.com/ershamshad12/Simon-Game) | Classic memory game built with React |
-| [Dice Game](https://github.com/ershamshad12/Dice-Game) | Fun Dice game using JS logic |
+| [Simon Game](https://github.com/ershamshad12/Simon-says-game) | Classic memory game built with React |
+| [Dice Game](https://github.com/ershamshad12/Dice_Game) | Fun Dice game using JS logic |
 | [QSpider React](https://github.com/ershamshad12/QSpider-React) | Training-based UI layout project |
 | [Weather App](https://github.com/ershamshad12/Weather_App) | Weather forecast app using open API |
 | [React Quiz Game](https://github.com/ershamshad12/React-Quiz-Game) | Interactive quiz game using React |

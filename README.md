@@ -1,67 +1,72 @@
 # 👋 Hi there, I'm Md Shamshad Ansari!
 
-**Java Fullstack Developer | React.js Specialist | Passionate Coder**
+### Java Fullstack Developer | React.js Specialist | Passionate Coder
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I started my training in **January 2024** at **JSpiders**, where I learned:
+I began my training in **January 2024** at **JSpiders**, where I learned:
 
-- ✅ Core Java
-- ✅ SQL
-- ✅ JDBC
-- ✅ Servlets
-- ✅ Frontend skills: **HTML**, **CSS**, **JavaScript**, and **React.js**
+- ✅ Core Java  
+- ✅ SQL  
+- ✅ JDBC  
+- ✅ Servlets  
+- ✅ Frontend: **HTML**, **CSS**, **JavaScript**, **React.js**
 
-During this journey, I worked on multiple projects which helped me understand how to build full applications using both frontend and backend technologies. I have strong command over **React.js** and enjoy working on frontend development.
+During this journey, I built multiple projects that helped me understand how to build full-stack applications using both frontend and backend technologies. I have a strong interest in **React.js** and enjoy working on responsive UIs.
 
-Currently, I’m continuing my training at **QSpiders** to further strengthen my concepts and get more hands-on practice.
+Currently, I’m continuing my training at **JSpiders** to improve my skills and get more hands-on practice.
 
-I regularly use **GitHub** to manage and host my projects. Coding is not just a skill for me — it's something I truly enjoy and want to keep improving.
+I regularly use **GitHub** to manage and share my projects. Coding is something I enjoy, and I always try to learn and grow with each project.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📌 Pinned Projects
 
-- 🎲 [Lottery Game](https://github.com/ershamshad12/Lottery-Game) – JavaScript-based lottery number generator  
-- ☁️ [Weather App](https://github.com/ershamshad12/Weather_App) – Real-time weather updates using open API  
-- 📝 [TextUtils React App](https://github.com/ershamshad12/TextUtils-React-Project) – Text editing features built with React  
-- 🎮 [React Quiz Game](https://github.com/ershamshad12/React-Quiz-Game) – Simple quiz application using React
+Here are some of my highlighted projects:
+
+- [Simon Game](https://github.com/ershamshad12/Simon-Game) — Classic Simon memory game built with JavaScript
+- [Dice Game](https://github.com/ershamshad12/Dice-Game) — Dice rolling game using basic JS logic
+- [QSpider-React](https://github.com/ershamshad12/QSpider-React) — Training-based UI components and layout
+- [Weather_App](https://github.com/ershamshad12/Weather_App) — Weather app using open APIs
+- [React-Quiz-Game](https://github.com/ershamshad12/React-Quiz-Game) – Simple quiz application using React
+- [TextUtils-React-Project](https://github.com/ershamshad12/TextUtils-React-Project)  – Text editing features built with React
+- [Lottery-Game](https://github.com/ershamshad12/Lottery-Game) — A fun mini-project using React + JS logic
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 **Email**: ershamshad12@gmail.com  
-- 💼 **LinkedIn**: [md-shamshad-feb2002](https://www.linkedin.com/in/md-shamshad-feb2002/)  
-- 🐦 **Twitter**: [@isamsad_12](https://twitter.com/isamsad_12)  
-- 📷 **Instagram**: [@samsad_jr](https://www.instagram.com/samsad_jr/)
+- ✉️ Email: ershamshad12@gmail.com  
+- 👤 LinkedIn: [md-shamshad-feb2002](https://www.linkedin.com/in/md-shamshad-feb2002/)  
+- ☑️ GitHub: [ershamshad12](https://github.com/ershamshad12)  
+- 📱 Telegram: [@samsad_jr](https://t.me/samsad_jr)
 
 ---
 
-## ⚡ Fun Fact
-> I enjoy building UI with React and exploring backend logic using Java. I believe consistent practice is the key to mastery!
+## 🚀 Fun Fact
+
+I love solving real-world problems through logic and UI. Whether it's Java logic building or React components — I enjoy turning ideas into functional code.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shamshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ershamshad12&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ershamshad12&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ershamshad12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ershamshad12&layout=compact&theme=radical)
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's connect and grow together._
+> Thanks for visiting my profile! Let's connect and grow together 🚀

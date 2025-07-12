@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Md Shamshad Ansari!
+# 👋 Hi there, I'm Md Shamshad Ansari
 
 ### Java Fullstack Developer | React.js Specialist | Passionate Coder
 
@@ -29,6 +29,7 @@ I regularly use **GitHub** to manage and share my projects. Coding is something 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -38,11 +39,11 @@ I regularly use **GitHub** to manage and share my projects. Coding is something 
 Here are some of my highlighted projects:
 
 - [Simon Game](https://github.com/ershamshad12/Simon-Game) — Classic Simon memory game built with JavaScript
-- [Dice Game](https://github.com/ershamshad12/Dice-Game) — Dice rolling game using basic JS logic
+- [Dice Game](https://github.com/ershamshad12/Dice-Game) — A two-player dice rolling game using basic JS logic
 - [QSpider-React](https://github.com/ershamshad12/QSpider-React) — Training-based UI components and layout
 - [Weather_App](https://github.com/ershamshad12/Weather_App) — Weather app using open APIs
-- [React-Quiz-Game](https://github.com/ershamshad12/React-Quiz-Game) – Simple quiz application using React
-- [TextUtils-React-Project](https://github.com/ershamshad12/TextUtils-React-Project)  – Text editing features built with React
+- [React-Quiz-Game](https://github.com/ershamshad12/React-Quiz-Game)
+- [TextUtils-React-Project](https://github.com/ershamshad12/TextUtils-React-Project)
 - [Lottery-Game](https://github.com/ershamshad12/Lottery-Game) — A fun mini-project using React + JS logic
 
 ---
